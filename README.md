@@ -4,6 +4,8 @@ Displays a battery meter for connected XInput controller devices in the Windows 
 
 Nothing changed from upstream except updated .NET to version 8.0.404 (I had problems building with 8.0.403)
 
+You may need .NET from https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.11-windows-x64-installer
+
 ## License
 
 - [Video Game Controller icon](https://thenounproject.com/term/video-game-controller/8357/): [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)
